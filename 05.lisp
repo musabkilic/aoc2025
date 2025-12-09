@@ -30,6 +30,6 @@
   )
 )
 
-(print (ans1 *input*))
-(print (ans2 *input*))
+(print (time (ans1 *input*)))
+(print (time (ans2 *input*)))
 (terpri)
